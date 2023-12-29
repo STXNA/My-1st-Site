@@ -7,3 +7,9 @@
     text-align: center;
     color:black;
 }
+#logo-picture {
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
